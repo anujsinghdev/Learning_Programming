@@ -1,7 +1,8 @@
 package com.example.kotlin_course_05
 
 fun main() {
-
+    var obj = C()
+    obj.show()
 
 }
 
@@ -20,6 +21,6 @@ interface B {
 class C : A, B {
     override fun show() {
         super<A>.show()
-     //   super<B>.show()
+        super<B>.show()
     }
 }
