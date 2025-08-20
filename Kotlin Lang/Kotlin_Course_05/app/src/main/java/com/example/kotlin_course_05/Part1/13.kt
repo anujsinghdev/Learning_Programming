@@ -1,4 +1,4 @@
-package com.example.kotlin_course_05
+package com.example.kotlin_course_05.Part1
 
 open class ProtectedExample {
     protected val protectedData = "I am protected"

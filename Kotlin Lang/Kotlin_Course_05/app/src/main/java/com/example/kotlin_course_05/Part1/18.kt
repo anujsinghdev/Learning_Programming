@@ -1,4 +1,4 @@
-package com.example.kotlin_course_05
+package com.example.kotlin_course_05.Part1
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

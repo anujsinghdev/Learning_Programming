@@ -1,6 +1,5 @@
-package com.example.kotlin_course_05
+package com.example.kotlin_course_05.Part1
 
-import android.provider.Settings
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
